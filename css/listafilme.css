@@ -1,0 +1,63 @@
+body {
+    background-image: url("../imagens/background6304011280.jpg");
+    background-size: cover;
+}
+
+
+p {
+    font-size: 30px;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    margin-left: 200px;
+text-align: center;
+    
+}
+
+#rodape{
+    background-color: lightgray;
+    height: 80px;
+    padding-top: 40px;
+    text-align: center;
+    margin-top: 229px;
+    clear: both;
+ text-decoration: none;
+
+
+}
+
+ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: upper-roman;
+}
+
+a {
+    color: black;
+   
+
+}
+
+nav a:hover {
+    color: black;
+}
+
+.inicio {
+    background-color: lightgrey;
+    padding: 0%;
+    margin: 0%;
+    width: 1895px;
+    height: 90px;
+
+}
+
+#musicazeus {
+    background-color: lightgray;
+    height: auto;
+    width: 1000px;
+    margin-left: 400px;
+    align-items: center;
+
+
+
+}
